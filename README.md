@@ -1,4 +1,4 @@
-# Bilaal's Submission for the Amigo Digital technical test
+# Node.js Simple Message Service!
 
 In order to use the service, please ensure you have Curl and Node.js installed on your system. Then run server.js using the command: node server.js.
 
